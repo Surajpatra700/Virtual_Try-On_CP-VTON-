@@ -15,6 +15,10 @@
 <br/>Saved/Pre-trained models: [Checkpoints](https://1drv.ms/u/s!Ai8t8GAHdzVUiQA-o3C7cnrfGN6O?e=EaRiFP)
 <br/>Dataset: [VITON_PLUS](https://1drv.ms/u/s!Ai8t8GAHdzVUiQQYX0azYhqIDPP6?e=4cpFTI)
 
+## Generated image of steps of processing
+
+![Processing Steps](https://drive.google.com/uc?export=view&id=1EeNsKLBLHxWUIqFXxVqkJ8siAd7PzaHy)
+
 ## How to Use:
 - I upgrade the project to new version of libraries.
 - Python 3.11 support.
