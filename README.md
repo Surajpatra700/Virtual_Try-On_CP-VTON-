@@ -1,4 +1,4 @@
-# CP-VTON+ (new 2024)
+# CP-VTON+ Virtual Try-On Model
 
 ### Original Author
 ```
