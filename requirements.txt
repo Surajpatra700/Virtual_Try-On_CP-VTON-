@@ -1,0 +1,4 @@
+tensorboardX
+numpy
+Pillow
+opencv-python
